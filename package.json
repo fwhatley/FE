@@ -20,5 +20,8 @@
   "homepage": "https://github.com/fwhatley/FE#readme",
   "devDependencies": {
     "light-server": "^2.2.1"
+  },
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
   }
 }

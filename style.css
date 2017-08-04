@@ -1,0 +1,45 @@
+.demo-card-wide.mdl-card {
+    width: 512px;
+}
+
+.demo-layout-transparent {
+  background: url('./assets/FC.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+
+/* lists */
+.list-container {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 10px;
+    
+}
+
+.list-title {
+    font-size: 25px;
+    
+    margin: 10px;
+    padding: 5px 0px 0px 0px;
+}
+
+.list-item {
+    font-size: 20px;
+    margin: 5px;
+}
+
+/* links */
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: purple;
+    background-color: transparent;
+}
