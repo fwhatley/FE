@@ -1,0 +1,24 @@
+{
+  "name": "FE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "light-server -c lite-server.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwhatley/FE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwhatley/FE/issues"
+  },
+  "homepage": "https://github.com/fwhatley/FE#readme",
+  "devDependencies": {
+    "light-server": "^2.2.1"
+  }
+}
