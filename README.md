@@ -1,3 +1,4 @@
 light-server: https://www.npmjs.com/package/light-server
 
-Serve with livereload: npm start: http://localhost:7000
+- `npm install`
+- serve with livereload: `lite-server start`: [http://localhost:3000](http://localhost:3000)
